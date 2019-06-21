@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to save/load the ASPxGridView's ClientLayout Data and choose them from the ASPxListBox
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2534/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to save/load the ASPxGridView's ClientLayout data during callbacks. Pay attention to the following features:</p><p>- The Dictionary<string, string> contains all grid's layouts modified by the user. This Dictionary is kept in a Session. <br />
