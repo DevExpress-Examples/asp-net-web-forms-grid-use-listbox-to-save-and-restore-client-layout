@@ -9,7 +9,7 @@ This example demonstrates how to handle the grid's `ClientLayout` event to save 
 
 ## Overview
 
-The main idea is to handle the grid's server-side [ClientLayout](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.ClientLayout) event to save the modified client layout to a `Dictionary<string, string>` and add the layout to a list box editor. Then, a user can choose the layout form the editor and apply it to the grid.
+The main idea is to handle the grid's server-side [ClientLayout](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.ClientLayout) event to save the modified client layout to a `Dictionary<string, string>` and add the layout to a list box editor. Then, a user can choose the layout from the editor and apply it to the grid.
 
 ```cs
 protected void Grid_ClientLayout(object sender, ASPxClientLayoutArgs e) {
