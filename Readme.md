@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to use a list box editor to save and restore client layout
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2534/)**
+**[[Run Online]](https://codecentral.devexpress.com/128542301/)**
 <!-- run online end -->
 
 This example demonstrates how to handle the grid's `ClientLayout` event to save and restore the grid's client layout. The modified layouts are added to a list box editor.
